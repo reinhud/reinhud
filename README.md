@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lukas
-- 👀 I’m interested in python and machine learning
-- 🌱 I’m currently learning computer vision and flutter
+- 👀 I’m interested in machine learning and devops
 
 <!---
 reinhud/reinhud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

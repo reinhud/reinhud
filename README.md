@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-## About Me
+## 👨‍💻 About Me
 
 ```bash
 ~ ➜ aboutme
@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
   .;ccccccccccccc'.:dddl:.'ccccccc;.      Primary Language: Python & Bash (but willing to cheat on them)
  .:ccccccccccccc'OWMKOOXMWd'ccccccc:.     Current Quest: Architecting Cloud-Native Ecosystems
 .:ccccccccccccc'KMMc'cc'xMMc'ccccccc:.    Working on: Master Thesis on Scalable MLOps Infrastructures
-,cccccccccccccc'MMM.'cc';WW:'cccccccc,    Learning: Advanced Kubernetes Patterns & Distributed Systems
+,cccccccccccccc'MMM.'cc':WW:'cccccccc,    Learning: Advanced Kubernetes Patterns & Distributed Systems
 :cccccccccccccc'MMM.'cccccccccccccccc:    Hobbies: Tinkering with tech & daydreaming of adventures
-:ccccccc'oxOOOo;MMM000k.'cccccccccccc:    Dream: A cozy mountain cabin with gigabit internet
+:ccccccc'oxOOOo:MMM000k.'cccccccccccc:    Dream: A cozy mountain cabin with gigabit internet
 cccccc'0MMKxdd''MMMkddc.'cccccccccccc;    Open to: Collaboration and knowledge sharing
 ccccc'XMO'ccccc'MMM.'cccccccccccccccc;    Superpower: Turning caffeine into questionable code
 ccccc'MMo'ccccc'MMW.'ccccccccccccccc;     Hidden Skill: Debugging YAML-induced existential crises
@@ -37,17 +37,17 @@ ccccccccccccccccccccccccccccc:;.
 ```
 
 
-## **Technologies & Tools**
+## 🛠️ Technologies & Tools
 
 
-### 💻 Languages  
+### Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-### ☁️ DevOps & Cloud  
+### DevOps & Cloud  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) 
@@ -55,37 +55,74 @@ ccccccccccccccccccccccccccccc:;.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-### 📊 Data & ML  
+### Data & ML  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![DVC](https://img.shields.io/badge/-DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)  
 
-### 🧰 Databases & Storage
+### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![CloudNativePG](https://img.shields.io/badge/-CloudNativePG-FFD43B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-00ADEF?style=for-the-badge&logo=minio&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-ED1965?style=for-the-badge&logo=weaviate&logoColor=white)
 
-### 📐 Design & Other Tools  
+### Design & Other Tools  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 
-## Activity
+## 📈 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinhud/reinhud/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinhud/reinhud/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reinhud/reinhud/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Github Stats
+
+## 📊 Github Stats
 
 <details open>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reinhud&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinhud&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinhud&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=reinhud&show_icons=true&theme=dark&bg_color=00000000&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=reinhud&show_icons=true&theme=default&bg_color=00000000&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=reinhud&show_icons=true&theme=default&bg_color=00000000&hide_border=true" width="49%" />
+  </picture>
+
+  <!-- GitHub Top Languages Card -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=reinhud&layout=compact&theme=dark&bg_color=00000000&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=reinhud&layout=compact&theme=default&bg_color=00000000&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reinhud&layout=compact&theme=default&bg_color=00000000&hide_border=true" width="49%" />
+  </picture>
+
+  <br />
   
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=reinhud&theme=transparent&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=reinhud&theme=transparent&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinhud&theme=transparent&hide_border=true" alt="GitHub Streak" width="50%" />
+  </picture>
 </div>
-</details>
+
